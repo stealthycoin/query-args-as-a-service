@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "api_handler_name": "query-args-as-a-service-dev",
+    "api_handler_arn": "arn:aws:lambda:us-west-2:001499081322:function:query-args-as-a-service-dev",
+    "lambda_functions": {},
+    "backend": "api",
+    "chalice_version": "1.0.0b1",
+    "rest_api_id": "r6i5b3yao2",
+    "api_gateway_stage": "dev",
+    "region": "us-west-2"
+  }
+}
